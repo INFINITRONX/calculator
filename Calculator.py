@@ -1,3 +1,5 @@
+clear
+
 def add(x, y):
    """This function adds two numbers"""
 
@@ -25,12 +27,22 @@ print(" / ___|  / \  | |   / ___| | | | |      / \|_   _/ _ \|  _ \ ")
 print("| |     / _ \ | |  | |   | | | | |     / _ \ | || | | | |_) |")
 print("| |___ / ___ \| |__| |___| |_| | |___ / ___ \| || |_| |  _ < ")
 print(" \____/_/   \_\_____\____|\___/|_____/_/   \_\_| \___/|_| \_\ ")
+print("                                       ")
+print("                                        ")
 print("DARK CYBER WEAPON CALCULATOR..###ASANKA###")
+print("                    ")
+print("                      ")
 print("DON'T COPY THIS SCRIPT..   I'M DARK CYBER WEAPON")
+print("              ")
+print("            ")
 print("SELECT YOUR OPERATION.")
+print(" ")
 print("1.Add")
+print(" ")
 print("2.Subtract")
+print(" ")
 print("3.Multiply")
+print(" ")
 print("4.Divide")
 
 choice = input("Enter choice(1/2/3/4):")
