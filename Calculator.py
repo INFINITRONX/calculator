@@ -1,5 +1,3 @@
-clear
-
 def add(x, y):
    """This function adds two numbers"""
 
